@@ -1,9 +1,9 @@
 certifi==2025.1.31
 charset-normalizer==3.4.0
-idna==3.10
+idna==3.15
 multi-key-dict==2.0.3
 pbr==6.1.0
 python-jenkins==1.8.2
-requests==2.32.4
+requests==2.33.0
 six==1.16.0
-urllib3==2.2.3
+urllib3==2.7.0
